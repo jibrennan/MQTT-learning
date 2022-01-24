@@ -1,0 +1,7 @@
+Raspberry Pi Zero W commands:
+
+sudo apt update
+sudo apt upgrade
+sudo apt install mosquitto mosquitto-clients
+//check your work
+sudo systemctl status mosquitto
